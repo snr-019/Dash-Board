@@ -1,0 +1,19 @@
+.form-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.text-danger {
+    font-size: 0.875rem;
+    color: #dc3545;
+}
+#sub{
+    margin: 10px;
+    padding-top: 10px;
+    /* border: 2px solid red; */
+}
+#user{
+    text-align: center;
+}
